@@ -1,0 +1,233 @@
+1. D:\project\praxis-academy\kemampuan-dasar-1\latihan>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 14:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::dc42:9fe8:8660:fa93%13
+   IPv4 Address. . . . . . . . . . . : 192.168.1.129
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+
+
+2. D:\project\praxis-academy\kemampuan-dasar-1\latihan>ping google.com
+
+Pinging google.com [172.217.194.138] with 32 bytes of data:
+Reply from 172.217.194.138: bytes=32 time=65ms TTL=38
+Reply from 172.217.194.138: bytes=32 time=70ms TTL=38
+Reply from 172.217.194.138: bytes=32 time=67ms TTL=38
+Reply from 172.217.194.138: bytes=32 time=42ms TTL=38
+
+Ping statistics for 172.217.194.138:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 42ms, Maximum = 70ms, Average = 61ms
+
+3. D:\project\praxis-academy\kemampuan-dasar-1\latihan>copy cmdline.txt copycmdline.txt /a
+        1 file(s) copied.
+
+4. D:\project\praxis-academy\kemampuan-dasar-1\latihan>move cmdline.txt  ..\
+        1 file(s) moved.
+
+5. D:\project\praxis-academy\kemampuan-dasar-1\latihan>ren copycmdline.txt newcmdline.txt
+
+6. D:\project\praxis-academy\kemampuan-dasar-1\latihan>del newcmdline.txt
+
+7. D:\project\praxis-academy\kemampuan-dasar-1\latihan>dir
+ Volume in drive D is FastData
+ Volume Serial Number is 40DE-F610
+
+ Directory of D:\project\praxis-academy\kemampuan-dasar-1\latihan
+
+06-Jan-20  02:51 PM    <DIR>          .
+06-Jan-20  02:51 PM    <DIR>          ..
+06-Jan-20  02:42 PM             1,668 cmdline.txt
+               1 File(s)          1,668 bytes
+               2 Dir(s)  57,182,134,272 bytes free
+
+8. D:\project\praxis-academy\kemampuan-dasar-1\latihan>icacls cmdline.txt /grant users:f
+processed file: cmdline.txt
+Successfully processed 1 files; Failed processing 0 files
+
+9.D:\project\praxis-academy\kemampuan-dasar-1\latihan>find /c "Directory" D:\project\praxis-academy\kemampuan-dasar-1\latihan\cmdline.txt
+
+---------- D:\PROJECT\PRAXIS-ACADEMY\KEMAMPUAN-DASAR-1\LATIHAN\CMDLINE.TXT: 1
+
+10. D:\project\praxis-academy\kemampuan-dasar-1\latihan>mkdir hallo
+
+11.D:\project\praxis-academy\kemampuan-dasar-1\latihan>start chrome
+
+12.D:\project\praxis-academy\kemampuan-dasar-1\latihan>date
+The current date is: 06-Jan-20
+Enter the new date: (dd-mm-yy)
+
+13. D:\project\praxis-academy\kemampuan-dasar-1\latihan>systeminfo
+
+Host Name:                 BOB
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.18362 N/A Build 18362
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Pitou
+Registered Organization:
+Product ID:                00330-80186-55425-AA405
+Original Install Date:     18-Sep-19, 10:56:55 PM
+System Boot Time:          06-Jan-20, 2:09:17 PM
+System Manufacturer:       Acer
+System Model:              Aspire E5-476G
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1600 Mhz
+BIOS Version:              Insyde Corp. V1.33, 20-Apr-18
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     8,069 MB
+Available Physical Memory: 4,055 MB
+Virtual Memory: Max Size:  13,957 MB
+Virtual Memory: Available: 8,005 MB
+Virtual Memory: In Use:    5,952 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\BOB
+Hotfix(s):                 6 Hotfix(s) Installed.
+                           [01]: KB4533002
+                           [02]: KB4515383
+                           [03]: KB4516115
+                           [04]: KB4521863
+                           [05]: KB4524569
+                           [06]: KB4530684
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Intel(R) Dual Band Wireless-AC 3168
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.129
+                                 [02]: fe80::dc42:9fe8:8660:fa93
+                           [02]: Realtek PCIe GBE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+14. D:\project\praxis-academy\kemampuan-dasar-1\latihan>tasklist
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      1,320 K
+Registry                       120 Services                   0     41,072 K
+smss.exe                       452 Services                   0      1,028 K
+csrss.exe                      680 Services                   0      5,056 K
+wininit.exe                    780 Services                   0      5,736 K
+csrss.exe                      788 Console                    1      5,180 K
+services.exe                   852 Services                   0      8,728 K
+lsass.exe                      872 Services                   0     15,508 K
+svchost.exe                    992 Services                   0      3,404 K
+svchost.exe                     92 Services                   0     29,252 K
+winlogon.exe                   296 Console                    1     12,076 K
+fontdrvhost.exe                600 Services                   0      2,308 K
+fontdrvhost.exe                924 Console                    1      5,860 K
+svchost.exe                   1032 Services                   0     15,292 K
+svchost.exe                   1084 Services                   0      9,504 K
+dwm.exe                       1172 Console                    1     50,176 K
+svchost.exe                   1236 Services                   0      9,984 K
+svchost.exe                   1308 Services                   0      7,872 K
+svchost.exe                   1316 Services                   0     10,348 K
+svchost.exe                   1324 Services                   0      9,552 K
+svchost.exe                   1444 Services                   0      9,868 K
+svchost.exe                   1452 Services                   0     11,324 K
+svchost.exe                   1564 Services                   0     13,744 K
+svchost.exe                   1664 Services                   0      5,088 K
+svchost.exe                   1684 Services                   0     10,532 K
+svchost.exe                   1692 Services                   0      7,540 K
+svchost.exe                   1844 Services                   0     12,948 K
+svchost.exe                   2012 Services                   0      9,632 K
+svchost.exe                   1056 Services                   0      6,124 K
+svchost.exe                   1352 Services                   0      5,768 K
+NVDisplay.Container.exe       2124 Services                   0     12,416 K
+
+15.D:\project\praxis-academy\kemampuan-dasar-1\latihan>cd hallo
+
+D:\project\praxis-academy\kemampuan-dasar-1\latihan\hallo>
+
+16.D:\project\praxis-academy\kemampuan-dasar-1\latihan>nslookup
+Default Server:  UnKnown
+Address:  192.168.1.1
+
+17. D:\project\praxis-academy\kemampuan-dasar-1\latihan>arp /a
+
+Interface: 192.168.1.129 --- 0xd
+  Internet Address      Physical Address      Type
+  192.168.1.1           b8-69-f4-97-7f-ae     dynamic
+  192.168.1.122         02-c0-0e-0b-e5-0d     dynamic
+  192.168.1.254         68-ff-7b-56-b5-b4     dynamic
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static
+  224.0.0.22            01-00-5e-00-00-16     static
+  224.0.0.251           01-00-5e-00-00-fb     static
+  224.0.0.252           01-00-5e-00-00-fc     static
+  239.255.255.250       01-00-5e-7f-ff-fa     static
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static
+
+18. D:\project\praxis-academy\kemampuan-dasar-1\latihan>help
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+
+19. D:\project\praxis-academy\kemampuan-dasar-1\latihan>vol
+ Volume in drive D is FastData
+ Volume Serial Number is 40DE-F610
+
+20. D:\project\praxis-academy\kemampuan-dasar-1\latihan>ver
+
+Microsoft Windows [Version 10.0.18362.535]
