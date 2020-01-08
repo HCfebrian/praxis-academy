@@ -85,11 +85,7 @@ var add2 = makeAdder(2);
 var add4 = makeAdder(4);
 
 assert(add2(3) == 5);
-assert(add4(4) == 7);
-
-
-
-}
+assert(add4(4) == 7);}
 
 //lexical closures
 Function makeAdder(num addBy){

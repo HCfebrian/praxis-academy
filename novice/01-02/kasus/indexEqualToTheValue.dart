@@ -7,8 +7,7 @@ print(indexEqualValue(inList, 0,inList.length-1));
 
 double indexEqualValue(var list, var st ,var end){
 
-  print('start $st');
-  print('end $end');
+
   if (st >end){
     return -1;
   }

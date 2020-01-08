@@ -20,6 +20,7 @@ for (var x in collection) {
 //   candidate.interview();
 // }
 
+/// Switch Case
 var command = 'OPEN';
 switch (command) {
   case 'CLOSED':
@@ -52,4 +53,5 @@ switch (command2) {
   case 'NOW_CLOSED':
     print('sedang tutup');
     break;
+}
 }
