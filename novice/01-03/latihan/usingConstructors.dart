@@ -1,34 +1,34 @@
 import 'dart:math';
 main(){
 
-/// penggunaan new menjadi optional di dart 2
-  var p1 = Point(2,2);
-  p1.x=3;
-  var p2 = Point.fromJson({'x':1,'y:2'})
-
-  var p3 = new Point(2, 2);
-  var p4 = new Point.fromJson({'x':1,'y':2});
-
-// beberapa class menyediakan constant constructor
-  var p = const ImmutablePoint(2,2);
-
-// mempersingkat inisialisasi constant
-    const pointAndLine = const{
-      'point' : const [const ImmutablePoint(0,0)],
-      'line' : const [const ImmutablePoint(1,0), const ImmutablePoint(-2,11)];
-    }
-
-    const pointAndLine = {
-    'point': [ImmutablePoint(0, 0)],
-    'line': [ImmutablePoint(1, 10), ImmutablePoint(-2, 11)]
-  };
+///// penggunaan new menjadi optional di dart 2
+//  var p1 = Point(2,2);
+//  p1.x=3;
+//  var p2 = Point.fromJson({'x':1,'y:2'})
+//
+//  var p3 = new Point(2, 2);
+//  var p4 = new Point.fromJson({'x':1,'y':2});
+//
+//// beberapa class menyediakan constant constructor
+//  var p = const ImmutablePoint(2,2);
+//
+//// mempersingkat inisialisasi constant
+//    const pointAndLine = const{
+//      'point' : const [const ImmutablePoint(0,0)],
+//      'line' : const [const ImmutablePoint(1,0), const ImmutablePoint(-2,11)];
+//    }
+//
+//    const pointAndLine = {
+//    'point': [ImmutablePoint(0, 0)],
+//    'line': [ImmutablePoint(1, 10), ImmutablePoint(-2, 11)]
+//  };
 
 // mempersingkat constant hanya dapat dilakukan dalam satu konteks
 
-  var a = const ImmutablePoint(1, 1); // Creates a constant
-  var b = ImmutablePoint(1, 1); // Does NOT create a constant
+//  var a = const ImmutablePoint(1, 1); // Creates a constant
+//  var b = ImmutablePoint(1, 1); // Does NOT create a constant
 
-  assert(!identical(a, b)); // NOT the same instance!
+//  assert(!identical(a, b)); // NOT the same instance!
 
 // apabila tidak ada constructor tak bernama dan tanpa argument di super class
  var emp = new Employee.fromJson({});
@@ -48,11 +48,11 @@ main(){
   print(p0.distanceFromOrigin);
   // Initializer list sets instance variables before
 // the constructor body runs.
-  Point.fromJson(Map<String, num> json)
-    : x = json['x'],
-      y = json['y'] {
-  print('In Point.fromJson(): ($x, $y)');
-}
+//  Point.fromJson(Map<String, num> json)
+//    : x = json['x'],
+//      y = json['y'] {
+//  print('In Point.fromJson(): ($x, $y)');
+//}
 
 }
 

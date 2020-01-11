@@ -34,11 +34,11 @@ fungsi yang dipanggil pertama kali saat menjalankan file dart.
 
 dalam fungsi main terdapat komponen komponen yang diantaranya 
 
-1. percabangan
+1. percabangan\
     penggunaan If-else sebagai percabangan.
-2. error handeling 
+2. error handeling \
     menggunakan try catch untuk menghendle error dan menampilkan pesan.
-3. input console
-    input console menggunakan **stdin.readLineSync()** kemudian dilakukan parse agar sesuai dengan tipe data yang dicari (int atau double)
-4. iterasi
-    perulangan menggunakan do while.
+3. input console\
+    input console menggunakan **stdin.readLineSync()** kemudian dilakukan **parse** agar sesuai dengan tipe data yang dicari (int atau double)
+4. iterasi\
+   perulangan menggunakan do while.
