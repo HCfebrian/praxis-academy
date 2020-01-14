@@ -6,9 +6,21 @@
       <excludeFolder url="file://$MODULE_DIR$/novice/01-01/kasus/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/novice/01-01/kasus/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/novice/01-01/kasus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/Kasus/hello_world/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/Kasus/hello_world/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/Kasus/hello_world/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/Latihan/flutter_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/Latihan/flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/Latihan/flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/Latihan/hello_world/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/Latihan/hello_world/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/Latihan/hello_world/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/02-01/hello_world/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
