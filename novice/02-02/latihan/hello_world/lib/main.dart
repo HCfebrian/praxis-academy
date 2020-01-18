@@ -43,19 +43,19 @@ class MyScaffold extends StatelessWidget {
   Widget build(BuildContext context) {
     return Material(
         child: Column(
-      children: <Widget>[
-        MyAppBar(
-          title: Text(
-            'Example Title',
-            style: Theme.of(context).primaryTextTheme.title,
-          ),
-        ),
-        Expanded(
-          child: Center(
-            child: Text("Hello, World"),
-          ),
-        )
-      ],
+          children: <Widget>[
+            MyAppBar(
+              title: Text(
+                'Example Title',
+                style: Theme.of(context).primaryTextTheme.title,
+              ),
+            ),
+            Expanded(
+              child: Center(
+                child: Text("Hello, World"),
+              ),
+            )
+          ],
     ));
   }
 }
