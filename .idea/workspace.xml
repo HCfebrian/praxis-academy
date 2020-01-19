@@ -1,97 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d345a2-5085-441d-a124-b4541a16d515" name="Default Changelist" comment="minggu ke 2 hari ke dua">
-      <change afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/test/widget_test.dart" afterDir="false" />
+    <list default="true" id="35d345a2-5085-441d-a124-b4541a16d515" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/hello_world/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/hello_world/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/.metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/src/main/kotlin/com/example/layout_in_flutter/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/src/main/kotlin/com/example/layout_in_flutter/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/android/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic17.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic18.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic19.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic20.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic21.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic23.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic24.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic25.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic26.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic27.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic28.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic29.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/images/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/images/pic9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/AppDelegate.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novice/02-02/latihan/layout_in_flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/novice/02-02/latihan/grid_and_list/pubspec.yaml" afterDir="false" />
     </list>
     <list id="dd0e4b8e-9de0-4d24-9c40-00a9ecc90f8e" name="minggu ke 2 hari ke dua" comment="minggu ke 2 hari ke dua">
       <change afterPath="$PROJECT_DIR$/novice/02-02/latihan/bring_it_all_together/test/widget_test.dart" afterDir="false" />
@@ -114,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
+            <state relative-caret-position="126">
+              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -164,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -175,6 +86,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,11 +110,17 @@
               <item name="novice" type="462c0819:PsiDirectoryNode" />
               <item name="02-02" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
+              <item name="novice" type="462c0819:PsiDirectoryNode" />
+              <item name="02-02" type="462c0819:PsiDirectoryNode" />
+              <item name="latihan" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Course" />
     </panes>
@@ -282,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579143714646</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="minggu ke 2 hari ke dua&#10;&#10;+ layout a widget&#10;  cara menggunakan widget dan komponen komponennya (termasuk MaterialAPP)">
+      <created>1579366510524</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579366510524</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -296,9 +221,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20726173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,7 +301,8 @@
     <MESSAGE value="hari ke-4 (push Ulang)" />
     <MESSAGE value="hari ke-4 (push Ulang ke 3)" />
     <MESSAGE value="minggu ke 2 hari ke dua" />
-    <option name="LAST_COMMIT_MESSAGE" value="minggu ke 2 hari ke dua" />
+    <MESSAGE value="minggu ke 2 hari ke dua&#10;&#10;+ layout a widget&#10;  cara menggunakan widget dan komponen komponennya (termasuk MaterialAPP)" />
+    <option name="LAST_COMMIT_MESSAGE" value="minggu ke 2 hari ke dua&#10;&#10;+ layout a widget&#10;  cara menggunakan widget dan komponen komponennya (termasuk MaterialAPP)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/novice/01-01/kasus/test/kasus_test.dart" />
@@ -454,8 +379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
+        <state relative-caret-position="126">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
         </state>
       </provider>
     </entry>
