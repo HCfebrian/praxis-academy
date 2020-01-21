@@ -2,15 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35d345a2-5085-441d-a124-b4541a16d515" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/android/app/src/main/res/drawable/no.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/images/2x/diagramArtboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/images/3x/diagramArtboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/images/4x/diagramArtboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/images/diagramArtboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/LaunchImage.imageset/splash_screen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/LaunchImage.imageset/splash_screen@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/LaunchImage.imageset/splash_screen@3x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/lib/widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/praxis-academy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/praxis-academy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="dd0e4b8e-9de0-4d24-9c40-00a9ecc90f8e" name="minggu ke 2 hari ke dua" comment="minggu ke 2 hari ke dua">
-      <change afterPath="$PROJECT_DIR$/novice/02-02/latihan/bring_it_all_together/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-02/latihan/changing_widget_in_response_to_input/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-02/latihan/hello_world/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-02/latihan/using_material_components/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/praxis-academy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/praxis-academy.iml" afterDir="false" />
-    </list>
+    <list id="dd0e4b8e-9de0-4d24-9c40-00a9ecc90f8e" name="minggu ke 2 hari ke dua" comment="minggu ke 2 hari ke dua" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,19 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/test/widget_test.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#1050#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="560">
+              <caret line="95" column="14" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -86,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -108,20 +115,12 @@
               <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
               <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
               <item name="novice" type="462c0819:PsiDirectoryNode" />
-              <item name="02-02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
-              <item name="novice" type="462c0819:PsiDirectoryNode" />
-              <item name="02-02" type="462c0819:PsiDirectoryNode" />
-              <item name="latihan" type="462c0819:PsiDirectoryNode" />
+              <item name="02-03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Course" />
     </panes>
   </component>
@@ -222,7 +221,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20726173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21633889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,19 +376,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/test/widget_test.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#0#1050#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="95" column="14" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
         </state>
       </provider>
     </entry>
