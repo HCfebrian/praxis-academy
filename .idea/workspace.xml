@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35d345a2-5085-441d-a124-b4541a16d515" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/novice/03-02/kasus/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novice/03-02/latihan/redme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/praxis-academy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/praxis-academy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="dd0e4b8e-9de0-4d24-9c40-00a9ecc90f8e" name="minggu ke 2 hari ke dua" comment="minggu ke 2 hari ke dua" />
@@ -15,17 +19,42 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/lib/main.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.3517398">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/novice/03-02/latihan/parse_json_into_background/lib/main.dart">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="54">
+                  <caret line="16" column="14" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="14" />
+                  <folding>
+                    <element signature="e#0#41#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/novice/03-02/latihan/redme.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="198">
+                    <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+                  </first_editor>
+                  <second_editor>
+                    <markdownNavigatorState />
+                  </second_editor>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -56,6 +85,8 @@
         <option value="$PROJECT_DIR$/novice/01-04/kasus/Map.dart" />
         <option value="$PROJECT_DIR$/novice/01-04/latihan/Sets.dart" />
         <option value="$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/lib/main.dart" />
+        <option value="$PROJECT_DIR$/novice/03-02/kasus/readme.md" />
+        <option value="$PROJECT_DIR$/novice/03-02/latihan/redme.md" />
       </list>
     </option>
   </component>
@@ -70,6 +101,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,7 +124,27 @@
               <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
               <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
               <item name="novice" type="462c0819:PsiDirectoryNode" />
-              <item name="02-03" type="462c0819:PsiDirectoryNode" />
+              <item name="01-01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
+              <item name="novice" type="462c0819:PsiDirectoryNode" />
+              <item name="01-01" type="462c0819:PsiDirectoryNode" />
+              <item name="kasus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
+              <item name="novice" type="462c0819:PsiDirectoryNode" />
+              <item name="01-01" type="462c0819:PsiDirectoryNode" />
+              <item name="latihan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
+              <item name="novice" type="462c0819:PsiDirectoryNode" />
+              <item name="01-02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
@@ -99,12 +152,41 @@
               <item name="novice" type="462c0819:PsiDirectoryNode" />
               <item name="03-02" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
+              <item name="novice" type="462c0819:PsiDirectoryNode" />
+              <item name="03-02" type="462c0819:PsiDirectoryNode" />
+              <item name="kasus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
+              <item name="novice" type="462c0819:PsiDirectoryNode" />
+              <item name="03-02" type="462c0819:PsiDirectoryNode" />
+              <item name="latihan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
+              <item name="novice" type="462c0819:PsiDirectoryNode" />
+              <item name="03-02" type="462c0819:PsiDirectoryNode" />
+              <item name="latihan" type="462c0819:PsiDirectoryNode" />
+              <item name="parse_json_into_background" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
+              <item name="novice" type="462c0819:PsiDirectoryNode" />
+              <item name="03-02" type="462c0819:PsiDirectoryNode" />
+              <item name="latihan" type="462c0819:PsiDirectoryNode" />
+              <item name="parse_json_into_background" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Course" />
     </panes>
   </component>
@@ -212,8 +294,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22541603" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2322239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -312,7 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/novice/01-03/latihan/readme.md" />
     <entry file="file://$PROJECT_DIR$/novice/01-03/latihan/usingConstructors.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -361,7 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/novice/01-03/kasus/readme.md" />
     <entry file="file://$PROJECT_DIR$/novice/01-03/kasus/ATMMachine.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -382,6 +463,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/03-02/kasus/todo_list/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/01-03/latihan/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/01-03/kasus/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/03-02/kasus/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="876">
+            <caret line="51" selection-start-line="51" selection-end-line="51" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/03-02/kasus/todo_list/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/01-01/latihan/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-6" />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/03-02/latihan/parse_json_into_background/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/03-02/latihan/redme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>

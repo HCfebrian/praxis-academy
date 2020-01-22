@@ -197,6 +197,9 @@
       <excludeFolder url="file://$MODULE_DIR$/novice/03-01/latihan/provider_shopper/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/novice/03-01/latihan/provider_shopper/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/novice/03-01/latihan/provider_shopper/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-02/kasus/todo_list/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-02/kasus/todo_list/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/03-02/kasus/todo_list/build" />
       <excludeFolder url="file://$MODULE_DIR$/novice/03-02/latihan/parse_json_into_background/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/novice/03-02/latihan/parse_json_into_background/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/novice/03-02/latihan/parse_json_into_background/build" />
