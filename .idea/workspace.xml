@@ -2,29 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35d345a2-5085-441d-a124-b4541a16d515" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/android/app/src/main/res/drawable/no.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/images/2x/diagramArtboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/images/3x/diagramArtboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/images/4x/diagramArtboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/images/diagramArtboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/LaunchImage.imageset/splash_screen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/LaunchImage.imageset/splash_screen@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/ios/Runner/Assets.xcassets/LaunchImage.imageset/splash_screen@3x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/02-03/latihan/adding_asset_and_image/lib/widget.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/praxis-academy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/praxis-academy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="dd0e4b8e-9de0-4d24-9c40-00a9ecc90f8e" name="minggu ke 2 hari ke dua" comment="minggu ke 2 hari ke dua" />
@@ -42,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="95" column="14" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
+            <state relative-caret-position="344">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -78,6 +55,7 @@
         <option value="$PROJECT_DIR$/novice/01-04/latihan/list.dart" />
         <option value="$PROJECT_DIR$/novice/01-04/kasus/Map.dart" />
         <option value="$PROJECT_DIR$/novice/01-04/latihan/Sets.dart" />
+        <option value="$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/lib/main.dart" />
       </list>
     </option>
   </component>
@@ -92,8 +70,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,10 +93,18 @@
               <item name="novice" type="462c0819:PsiDirectoryNode" />
               <item name="02-03" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
+              <item name="novice" type="462c0819:PsiDirectoryNode" />
+              <item name="03-02" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Course" />
     </panes>
   </component>
@@ -136,6 +120,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\praxis-academy\novice\03-02" />
       <recent name="D:\project\praxis-academy\novice\02-01\Latihan" />
       <recent name="D:\project\praxis-academy\novice\01-04\kasus" />
     </key>
@@ -206,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579366510524</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="minggu ke 2 hari ke tiga&#10;&#10;+ asset&#10; mengganti icon dan splashscreen">
+      <created>1579623823088</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579623823088</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -221,7 +213,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21633889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22541603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -301,7 +293,8 @@
     <MESSAGE value="hari ke-4 (push Ulang ke 3)" />
     <MESSAGE value="minggu ke 2 hari ke dua" />
     <MESSAGE value="minggu ke 2 hari ke dua&#10;&#10;+ layout a widget&#10;  cara menggunakan widget dan komponen komponennya (termasuk MaterialAPP)" />
-    <option name="LAST_COMMIT_MESSAGE" value="minggu ke 2 hari ke dua&#10;&#10;+ layout a widget&#10;  cara menggunakan widget dan komponen komponennya (termasuk MaterialAPP)" />
+    <MESSAGE value="minggu ke 2 hari ke tiga&#10;&#10;+ asset&#10; mengganti icon dan splashscreen" />
+    <option name="LAST_COMMIT_MESSAGE" value="minggu ke 2 hari ke tiga&#10;&#10;+ asset&#10; mengganti icon dan splashscreen" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/novice/01-01/kasus/test/kasus_test.dart" />
@@ -387,8 +380,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/novice/02-01/Latihan/flutter_app/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="95" column="14" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
+        <state relative-caret-position="344">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
