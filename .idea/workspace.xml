@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d345a2-5085-441d-a124-b4541a16d515" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/novice/03-02/kasus/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novice/03-02/latihan/redme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/praxis-academy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/praxis-academy.iml" afterDir="false" />
+    <list default="true" id="35d345a2-5085-441d-a124-b4541a16d515" name="Default Changelist" comment="minggu ke 2 hari ke tiga&#10;&#10;+ asset&#10; mengganti icon dan splashscreen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="dd0e4b8e-9de0-4d24-9c40-00a9ecc90f8e" name="minggu ke 2 hari ke dua" comment="minggu ke 2 hari ke dua" />
@@ -25,8 +21,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/novice/03-02/latihan/parse_json_into_background/lib/main.dart">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="54">
-                  <caret line="16" column="14" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="14" />
+                <state relative-caret-position="222">
+                  <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
                   <folding>
                     <element signature="e#0#41#0" expanded="true" />
                   </folding>
@@ -42,8 +38,8 @@
             <entry file="file://$PROJECT_DIR$/novice/03-02/latihan/redme.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="198">
-                    <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+                  <first_editor relative-caret-position="252">
+                    <caret line="14" selection-start-line="14" selection-end-line="14" />
                   </first_editor>
                   <second_editor>
                     <markdownNavigatorState />
@@ -146,43 +142,6 @@
               <item name="novice" type="462c0819:PsiDirectoryNode" />
               <item name="01-02" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
-              <item name="novice" type="462c0819:PsiDirectoryNode" />
-              <item name="03-02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
-              <item name="novice" type="462c0819:PsiDirectoryNode" />
-              <item name="03-02" type="462c0819:PsiDirectoryNode" />
-              <item name="kasus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
-              <item name="novice" type="462c0819:PsiDirectoryNode" />
-              <item name="03-02" type="462c0819:PsiDirectoryNode" />
-              <item name="latihan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
-              <item name="novice" type="462c0819:PsiDirectoryNode" />
-              <item name="03-02" type="462c0819:PsiDirectoryNode" />
-              <item name="latihan" type="462c0819:PsiDirectoryNode" />
-              <item name="parse_json_into_background" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="praxis-academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="praxis-academy" type="462c0819:PsiDirectoryNode" />
-              <item name="novice" type="462c0819:PsiDirectoryNode" />
-              <item name="03-02" type="462c0819:PsiDirectoryNode" />
-              <item name="latihan" type="462c0819:PsiDirectoryNode" />
-              <item name="parse_json_into_background" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -280,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579623823088</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="minggu ke 2 hari ke tiga&#10;&#10;+ asset&#10; mengganti icon dan splashscreen">
+      <created>1579686671668</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579686671668</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -294,9 +260,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2322239" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2322239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -535,25 +500,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/novice/03-02/latihan/parse_json_into_background/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/novice/03-02/latihan/redme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          <first_editor relative-caret-position="252">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novice/03-02/latihan/parse_json_into_background/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
