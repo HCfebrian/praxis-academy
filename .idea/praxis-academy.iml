@@ -211,9 +211,10 @@
       <excludeFolder url="file://$MODULE_DIR$/novice/03-03/latihan/baby_names/build" />
       <excludeFolder url="file://$MODULE_DIR$/novice/03-03/latihan/firebase_to_flutter/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/novice/03-03/latihan/firebase_to_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-01/latihan/batterylevel/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/novice/04-01/latihan/batterylevel/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Dart SDK" level="project" />
   </component>
 </module>
